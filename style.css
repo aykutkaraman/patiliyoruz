@@ -3748,7 +3748,8 @@ ul.navbar-nav > li.mega-dropdown {
 }
 
 .comments-list .comment .comment-body {
-  margin-left: 114px;
+  margin-left: 105px;
+  margin-top: -95px;
 }
 
 .comments-list .comment .comment-body .comment-author {
