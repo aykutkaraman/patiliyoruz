@@ -48,6 +48,29 @@ body, p {
   text-rendering: optimizeLegibility;
 }
 
+.pull-right {
+  float: right;
+}
+
+.p_cateo {
+  background: #000000;
+}
+
+.post-meta span a.view .icon {
+  color: #fc4a00;
+}
+
+.post-meta span a {
+  color: inherit;
+  font-weight: bold;
+}
+
+.post-meta span.post-date2 {
+  border-right: 0;
+  color: #a3a3a3;
+  font-weight: bold;
+}
+
 body::-webkit-scrollbar-track
 {
     -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
